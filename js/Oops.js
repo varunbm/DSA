@@ -81,3 +81,11 @@ let userOne = new User("Varun", "varun@efgh.com");
 // Front end architecture 
 // Redux
 // Knowledge of UI and animation frameworks, touch user interface, and MVP application design.
+
+// 4 - Tailwind, nextjs, typescript 
+// 6 - Redux
+// Prepare for interview 
+// 7 - JS, ES6, HTMl ,CSS, JavaScript
+// 10 - React, tailwind, redux
+// 12 - About company
+// React routing
